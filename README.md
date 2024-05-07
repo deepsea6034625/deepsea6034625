@@ -9,3 +9,5 @@ Also can work any Back-End or Front-end Side. Backend: Python, NodeJS, PHP etc. 
 Easy to use Desktop Applications. C/C++, C#, Qt, Python etc
 
 Blockchain smart contract. Truffle, Solidity, Solana, Rust
+
+My skype id is: live:.cid.7fe814b6f41de6a
